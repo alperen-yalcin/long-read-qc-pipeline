@@ -117,7 +117,7 @@ snakemake --cores 4
 > sorunuz olursa lütfen çekinmeden yazın.
 >
 > Saygılarımla,
-> *[İsminiz]*
+> Alperen Yalçın 
 
 ---
 
