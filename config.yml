@@ -1,0 +1,7 @@
+# ──────────────────────────────────────────────
+# Long-Read QC Pipeline – Configuration
+# ──────────────────────────────────────────────
+# Place your FASTQ file at  data/<sample>.fastq.gz
+# then run:  snakemake --cores 1
+
+sample: "data/sample"

@@ -1,0 +1,14 @@
+name: long-read-qc
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - snakemake-minimal>=7.0
+  - nanoplot>=1.41
+  - biopython>=1.81
+  - pandas>=2.0
+  - matplotlib>=3.7
+  - seaborn>=0.12
+  - numpy>=1.24
